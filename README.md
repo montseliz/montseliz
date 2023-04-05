@@ -94,7 +94,7 @@
 
 ###
 
-<h3 align="left">🖱️  Other general tools:</h3>
+<h3 align="left">🖱️  Other tools:</h3>
 
 ###
 
