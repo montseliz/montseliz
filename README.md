@@ -7,7 +7,7 @@
 
 ###
 
-<h4 align="center">A proactive Java Back-End Developer in Spring trained at It Academy from Barcelona Activa 💻<br><br>I'm a passionate learner who's always willing to learn and work across technologies and coding languages 📖 <br><br>I take great care in the experience, architecture and code quality ⌨️ <br><br>📫 How to reach me:</h4>
+<h4 align="center">A proactive Java Back-End Developer in Spring trained at It Academy from Barcelona Activa 💻<br><br>I'm a passionate learner who's always willing to learn and work across technologies and coding languages 📖 <br><br>I take great care in the user experience, architecture and code quality ⌨️ <br><br>📫 How to reach me:</h4>
 
 ###
 
@@ -40,7 +40,7 @@
 
 ###
 
-<h4 align="left">After graduating in Art History and specializing in Cultural Heritage Management, I am getting into the tech sector of Web Development which I have always been interested and passionate about 🎓<br><br>My previous experience and studies have enabled me to acquire skills such as versatility and adaptability, the importance of organization, planning and teamwork and, especially, the change management process 📚</h4>
+<h4 align="left">After graduating in Art History and specializing in Cultural Heritage Management, I have entered into the tech sector of Web Development which I have always been interested and passionate about 🎓<br><br>My previous experience and studies have enabled me to acquire skills such as versatility and adaptability, the importance of organization, planning and teamwork and, especially, the change management process 📚</h4>
 
 ###
 
