@@ -72,7 +72,7 @@
 <a href="https://junit.org/junit5/" target="_blank">   
 <img src="https://asset.brandfetch.io/idD7RfhCFS/id3KSPzOxb.png" height="40" width="40" alt="junit logo"/>
 <a href="https://site.mockito.org/" target="_blank">   
-<img src="https://raw.githubusercontent.com/mockito/mockito.github.io/master/img/logo%402x.png" height="40" alt="mockito logo"/>
+<img src="https://raw.githubusercontent.com/mockito/mockito.github.io/master/img/logo%402x.png" height="40" width="80" alt="mockito logo"/>
 <a href="https://git-scm.com/" target="_blank">  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"/>
 <a href="https://github.com/" target="_blank">
@@ -112,11 +112,11 @@
 <a href="https://www.canva.com/es_es/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" width="52" alt="canva logo"/>
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank">
-<img src="https://skillicons.dev/icons?i=ps" height="40" width="52" alt="adobephotoshop logo"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" height="40" width="52" alt="adobephotoshop logo"/>
 <a href="https://www.adobe.com/in/products/premiere.html" target="_blank">
 <img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" height="40" width="52" alt="adobepremierepro logo"/>
 <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank">
-<img src="https://profilinator.rishav.dev/skills-assets/lightroom.png" height="40" width="40" alt="lightroom logo"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg" height="40" width="52" alt="lightroom logo"/>
 <a href="https://www.adobe.com/in/products/indesign.html" target="_blank">
 <img src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" height="40" width="52" alt="indesign logo"/>
 
