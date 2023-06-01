@@ -49,28 +49,44 @@
 ###
 
 <div align="left">
-     <a href="https://spring.io/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" width="52" alt="spring logo"  />
-     <a href="https://www.java.com/" target="_blank">
+    <a href="https://www.java.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
-     <a href="https://gradle.org/" target="_blank">  
+    <a href="https://spring.io/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" width="52" alt="spring logo"  />
+    <a href="https://gradle.org/" target="_blank">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" height="40" width="52" alt="gradle logo"  />
-     <a href="https://postman.com" target="_blank"> 
+    <a href="https://maven.apache.org/" target="_blank"> 
+  <img src="https://cdn.simpleicons.org/apachemaven/C71A36" height="40" alt="apachemaven logo"  />
+  <img width="12" />
+    <a href="https://postman.com" target="_blank"> 
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" width="40" alt="postman"  />
-     <a href="https://git-scm.com/" target="_blank">  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
-     <a href="https://github.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
-     <a href="https://www.mongodb.com/" target="_blank">
+    <a href="https://www.mongodb.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
-     <a href="https://www.mysql.com/" target="_blank">
+    <a href="https://www.mysql.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
     <a href="https://www.postgresql.org/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
+    <a href="https://jwt.io/" target="_blank">   
+  <img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" height="40" alt="jwt logo"  />
+  <img width="12" />
+    <a href="https://swagger.io/" target="_blank">   
+  <img src="https://cdn.svgporn.com/logos/swagger.svg" height="40" alt="swagger logo"  />
+  <img width="12" />
+    <a href="https://junit.org/junit5/" target="_blank">   
+  <img src="https://asset.brandfetch.io/idD7RfhCFS/id3KSPzOxb.png" height="40" alt="junit logo"  />
+  <img width="12" />
+    <a href="https://site.mockito.org/" target="_blank">   
+  <img src="https://raw.githubusercontent.com/mockito/mockito.github.io/master/img/logo%402x.png" height="40" alt="mockito logo"  />
+  <img width="12" />
+    <a href="https://git-scm.com/" target="_blank">  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
+    <a href="https://github.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
     <a href="https://www.jetbrains.com/idea/" target="_blank">  
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" height="40" width="52" alt="intellij logo"  />
     <a href="https://eclipseide.org/" target="_blank">   
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Eclipse-Luna-Logo.svg" height="40" width="52" alt="eclipse logo"  />
+  <img src="https://cdn.simpleicons.org/eclipseide/2C2255" height="40" alt="eclipseide logo"  />
+  <img width="12" />
     <a href="https://code.visualstudio.com/" target="_blank">     
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
 </div>
@@ -102,9 +118,10 @@
     <a href="https://www.canva.com/es_es/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" width="52" alt="canva logo"  />
     <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" width="52" alt="photoshop logo"  />
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
+  <img width="12" />
     <a href="https://www.adobe.com/in/products/premiere.html" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="40" width="52" alt="premierepro logo"  />
+ <img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" height="40" alt="adobepremierepro logo"  />
     <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank">
   <img src="https://profilinator.rishav.dev/skills-assets/lightroom.png" height="40" alt="lightroom logo"  />
     <a href="https://www.adobe.com/in/products/indesign.html" target="_blank">
