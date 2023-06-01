@@ -35,7 +35,7 @@
 </div>
 
 ###
-<br>
+
 <h3 align="left">👩‍💻  About Me:</h3>
 
 ###
@@ -43,7 +43,7 @@
 <h4 align="left">After graduating in Art History and specializing in Cultural Heritage Management, I have entered into the tech sector of Web Development which I have always been interested and passionate about 🎓<br><br>My previous experience and studies have enabled me to acquire skills such as versatility and adaptability, the importance of organization, planning and teamwork and, especially, the change management process 📚</h4>
 
 ###
-<br>
+
 <h3 align="left">🛠 Languages and tools:</h3>
 
 ###
@@ -56,7 +56,7 @@
 <a href="https://gradle.org/" target="_blank">  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" height="40" width="52" alt="gradle logo"/>
 <a href="https://maven.apache.org/" target="_blank"> 
-<img src="https://cdn.simpleicons.org/apachemaven/C71A36" height="40" alt="apachemaven logo"/>
+<img src="https://cdn.simpleicons.org/apachemaven/C71A36" height="40" width="52" alt="apachemaven logo"/>
 <a href="https://postman.com" target="_blank"> 
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" width="40" alt="postman"/>
 <a href="https://www.mongodb.com/" target="_blank">
@@ -66,11 +66,11 @@
 <a href="https://www.postgresql.org/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"/>
 <a href="https://jwt.io/" target="_blank">   
-<img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" height="40" alt="jwt logo"/>
+<img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" height="40" width="52" alt="jwt logo"/>
 <a href="https://swagger.io/" target="_blank">   
-<img src="https://cdn.svgporn.com/logos/swagger.svg" height="40" alt="swagger logo"/>
+<img src="https://cdn.svgporn.com/logos/swagger.svg" height="40" width="52" alt="swagger logo"/>
 <a href="https://junit.org/junit5/" target="_blank">   
-<img src="https://asset.brandfetch.io/idD7RfhCFS/id3KSPzOxb.png" height="40" alt="junit logo"/>
+<img src="https://asset.brandfetch.io/idD7RfhCFS/id3KSPzOxb.png" height="40" width="40" alt="junit logo"/>
 <a href="https://site.mockito.org/" target="_blank">   
 <img src="https://raw.githubusercontent.com/mockito/mockito.github.io/master/img/logo%402x.png" height="40" alt="mockito logo"/>
 <a href="https://git-scm.com/" target="_blank">  
@@ -80,14 +80,14 @@
 <a href="https://www.jetbrains.com/idea/" target="_blank">  
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" height="40" width="52" alt="intellij logo"/>
 <a href="https://eclipseide.org/" target="_blank">   
-<img src="https://cdn.simpleicons.org/eclipseide/2C2255" height="40" alt="eclipseide logo"/>
+<img src="https://cdn.simpleicons.org/eclipseide/2C2255" height="40" width="52" alt="eclipseide logo"/>
 <a href="https://code.visualstudio.com/" target="_blank">     
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"/>
 </div>
 
 ###
 
-<br><h3 align="left">🔥   My Stats:</h3>
+<h3 align="left">🔥   My Stats:</h3>
 
 ###
 
@@ -104,7 +104,7 @@
  
 ###
 
-<br><h3 align="left">🖱️  Other tools:</h3>
+<h3 align="left">🖱️  Other tools:</h3>
 
 ###
 
@@ -112,11 +112,11 @@
 <a href="https://www.canva.com/es_es/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" width="52" alt="canva logo"/>
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank">
-<img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"/>
+<img src="https://skillicons.dev/icons?i=ps" height="40" width="52" alt="adobephotoshop logo"/>
 <a href="https://www.adobe.com/in/products/premiere.html" target="_blank">
-<img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" height="40" alt="adobepremierepro logo"/>
+<img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" height="40" width="52" alt="adobepremierepro logo"/>
 <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank">
-<img src="https://profilinator.rishav.dev/skills-assets/lightroom.png" height="40" alt="lightroom logo"/>
+<img src="https://profilinator.rishav.dev/skills-assets/lightroom.png" height="40" width="40" alt="lightroom logo"/>
 <a href="https://www.adobe.com/in/products/indesign.html" target="_blank">
 <img src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" height="40" width="52" alt="indesign logo"/>
 
