@@ -73,16 +73,16 @@
 <img src="https://asset.brandfetch.io/idD7RfhCFS/id3KSPzOxb.png" height="40" width="40" alt="junit logo"/>
 <a href="https://site.mockito.org/" target="_blank">   
 <img src="https://raw.githubusercontent.com/mockito/mockito.github.io/master/img/logo%402x.png" height="40" width="80" alt="mockito logo"/>
-<a href="https://git-scm.com/" target="_blank">  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"/>
-<a href="https://github.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"/>
 <a href="https://www.jetbrains.com/idea/" target="_blank">  
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" height="40" width="52" alt="intellij logo"/>
 <a href="https://eclipseide.org/" target="_blank">   
 <img src="https://cdn.simpleicons.org/eclipseide/2C2255" height="40" width="52" alt="eclipseide logo"/>
 <a href="https://code.visualstudio.com/" target="_blank">     
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"/>
+<a href="https://git-scm.com/" target="_blank">  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"/>
+<a href="https://github.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"/>
 </div>
 
 ###
