@@ -61,8 +61,10 @@
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" width="40" alt="postman"/>
 <a href="https://www.mongodb.com/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"/>
+<a href="https://redis.io/" target="_blank">
+<img src="https://www.svgrepo.com/show/303460/redis-logo.svg" height="40" width="48" alt="redis logo"/>
 <a href="https://www.mysql.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="48" alt="mysql logo"/>
 <a href="https://www.postgresql.org/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"/>
 <a href="https://jwt.io/" target="_blank">   
@@ -73,6 +75,8 @@
 <img src="https://asset.brandfetch.io/idD7RfhCFS/id3KSPzOxb.png" height="40" width="40" alt="junit logo"/>
 <a href="https://site.mockito.org/" target="_blank">   
 <img src="https://raw.githubusercontent.com/mockito/mockito.github.io/master/img/logo%402x.png" height="40" width="80" alt="mockito logo"/>
+<a href="https://www.docker.com/" target="_blank">   
+<img src="https://cdn.simpleicons.org/docker/2496ED" height="40" width="52" alt="docker logo"/>
 <a href="https://www.jetbrains.com/idea/" target="_blank">  
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" height="40" width="52" alt="intellij logo"/>
 <a href="https://eclipseide.org/" target="_blank">   
