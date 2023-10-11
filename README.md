@@ -3,7 +3,7 @@
 
 ###
 
-<h1 align="center">Hi! 👋 I'm Montse Liz</h1>
+# <center>¡Hola! 👋 Soy Montse Liz</center>
 
 ###
 
