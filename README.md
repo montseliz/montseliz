@@ -1,15 +1,17 @@
 
 ![banner_github](https://user-images.githubusercontent.com/118254693/229959669-e6d49961-7756-4521-8d90-c00793d0d6e8.png)
 
-# <p align="center">Hi! 👋 I'm Montse Liz</p>
+###
 
-### 
+<h1 align="center">Hi! 👋 I'm Montse Liz</h1>
 
-#### <p align="center">A proactive Java Back-End Developer in Spring trained at It Academy from Barcelona Activa 💻<br><br>I'm a passionate learner who's always willing to learn and work across technologies and coding languages 📖 <br><br>I focus on developing robust, scalable and efficient solutions, ensuring a well-structured and maintainable code, following best practices and clean code ⌨️ <br><br>📫 How to reach me:</p>
+###
 
-### 
+<h4 align="center">A proactive Java Back-End Developer in Spring trained at It Academy from Barcelona Activa 💻<br><br>I'm a passionate learner who's always willing to learn and work across technologies and coding languages 📖 <br><br>I focus on developing robust, scalable and efficient solutions, ensuring a well-structured and maintainable code, following best practices and clean code ⌨️ <br><br>📫 How to reach me:</h4>
 
-<div style="text-align: center;">
+###
+
+<div align="center">
   <a href="https://www.linkedin.com/in/montseliz/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -33,27 +35,27 @@
   </a>
 </div>
 
-### 
+###
 
-<div style="text-align: right;">
+<div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=montseliz.montseliz&"  />
 </div>
 
-### 
+###
 
-<h3 style="text-align: left;">👩‍💻 About Me:</h3>
+<h3 align="left">👩‍💻  About Me:</h3>
 
-### 
+###
 
-<h4 style="text-align: left;">After graduating in Art History and specializing in Cultural Heritage Management, I have entered into the tech sector of Web Development which I have always been interested and passionate about 🎓<br><br>My previous experience and studies have enabled me to acquire skills such as versatility and adaptability, the importance of organization, planning and teamwork and, especially, the change management process 📚</h4>
+<h4 align="left">After graduating in Art History and specializing in Cultural Heritage Management, I have entered into the tech sector of Web Development which I have always been interested and passionate about 🎓<br><br>My previous experience and studies have enabled me to acquire skills such as versatility and adaptability, the importance of organization, planning and teamwork and, especially, the change management process 📚</h4>
 
-### 
+###
 
-<h3 style="text-align: left;">🛠 Languages and tools:</h3>
+<h3 align="left">🛠 Languages and tools:</h3>
 
-### 
+###
 
-<div style="text-align: left;">
+<div align="left">
 <a href="https://www.java.com/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"/>
 </a>
@@ -113,30 +115,30 @@
 </a>
 </div>
 
-### 
+###
 
-<h3 style="text-align: left;">🔥 My Stats:</h3>
+<h3 align="left">🔥   My Stats:</h3>
 
-### 
+###
 
-<div style="text-align: center;">
-   <img src="https://github-readme-stats.vercel.app/api?username=montseliz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=montseliz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=montseliz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=montseliz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-### 
+###
 
-<div style="text-align: center;">
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=montseliz&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
  
-### 
+###
 
-<h3 style="text-align: left;">🖱️ Other tools:</h3>
+<h3 align="left">🖱️  Other tools:</h3>
 
-### 
+###
 
-<div style="text-align: left;">
+<div align="left">
 <a href="https://www.canva.com/es_es/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" width="52" alt="canva logo"/>
 </a>
@@ -154,3 +156,4 @@
 </a>
 </div>
 
+###
