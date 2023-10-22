@@ -1,15 +1,15 @@
 
 ![banner_github](https://user-images.githubusercontent.com/118254693/229959669-e6d49961-7756-4521-8d90-c00793d0d6e8.png)
 
-###
+<br>
 
 <h1 align="center">Hi! 👋 I'm Montse Liz</h1>
 
-###
+<br>
 
 <h4 align="center">A proactive Java Back-End Developer in Spring trained at It Academy from Barcelona Activa 💻<br><br>I'm a passionate learner who's always willing to learn and work across technologies and coding languages 📖 <br><br>I focus on developing robust, scalable and efficient solutions, ensuring a well-structured and maintainable code, following best practices and clean code ⌨️ <br><br>📫 How to reach me:</h4>
 
-###
+<br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/montseliz/" target="_blank">
@@ -35,25 +35,25 @@
   </a>
 </div>
 
-###
+<br>
 
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=montseliz.montseliz&"  />
 </div>
 
-###
+<br>
 
 <h3 align="left">👩‍💻  About Me:</h3>
 
-###
+<br>
 
 <h4 align="left">After graduating in Art History and specializing in Cultural Heritage Management, I have entered into the tech sector of Web Development which I have always been interested and passionate about 🎓<br><br>My previous experience and studies have enabled me to acquire skills such as versatility and adaptability, the importance of organization, planning and teamwork and, especially, the change management process 📚</h4>
 
-###
+<br>
 
 <h3 align="left">🛠 Languages and tools:</h3>
 
-###
+<br>
 
 <div align="left">
 <a href="https://www.java.com/" target="_blank">
@@ -115,28 +115,28 @@
 </a>
 </div>
 
-###
+<br>
 
 <h3 align="left">🔥   My Stats:</h3>
 
-###
+<br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=montseliz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=montseliz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=montseliz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=montseliz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+<br>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=montseliz&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
  
-###
+<br>
 
 <h3 align="left">🖱️  Other tools:</h3>
 
-###
+<br>
 
 <div align="left">
 <a href="https://www.canva.com/es_es/" target="_blank">
@@ -156,4 +156,4 @@
 </a>
 </div>
 
-###
+<br>
