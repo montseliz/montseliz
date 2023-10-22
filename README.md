@@ -1,11 +1,9 @@
 
 ![banner_github](https://user-images.githubusercontent.com/118254693/229959669-e6d49961-7756-4521-8d90-c00793d0d6e8.png)
 
-<br>
-
 <h1 align="center">Hi! 👋 I'm Montse Liz</h1>
 
-<br>
+
 
 <h4 align="center">A proactive Java Back-End Developer in Spring trained at It Academy from Barcelona Activa 💻<br><br>I'm a passionate learner who's always willing to learn and work across technologies and coding languages 📖 <br><br>I focus on developing robust, scalable and efficient solutions, ensuring a well-structured and maintainable code, following best practices and clean code ⌨️ <br><br>📫 How to reach me:</h4>
 
@@ -45,7 +43,7 @@
 
 <h3 align="left">👩‍💻  About Me:</h3>
 
-<br>
+
 
 <h4 align="left">After graduating in Art History and specializing in Cultural Heritage Management, I have entered into the tech sector of Web Development which I have always been interested and passionate about 🎓<br><br>My previous experience and studies have enabled me to acquire skills such as versatility and adaptability, the importance of organization, planning and teamwork and, especially, the change management process 📚</h4>
 
@@ -134,7 +132,7 @@
  
 <br>
 
-<h3 align="left">🖱️  Other tools:</h3>
+<h3 align="left">🖱️ Other tools:</h3>
 
 <br>
 
