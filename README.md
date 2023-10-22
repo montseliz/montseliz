@@ -1,11 +1,11 @@
 
 ![banner_github](https://user-images.githubusercontent.com/118254693/229959669-e6d49961-7756-4521-8d90-c00793d0d6e8.png)
 
-<h1 style="text-align: center;">Hi! 👋 I'm Montse Liz</h1>
+# <p align="center">Hi! 👋 I'm Montse Liz</p>
 
 ### 
 
-<h4 style="text-align: center;">A proactive Java Back-End Developer in Spring trained at It Academy from Barcelona Activa 💻<br><br>I'm a passionate learner who's always willing to learn and work across technologies and coding languages 📖 <br><br>I focus on developing robust, scalable and efficient solutions, ensuring a well-structured and maintainable code, following best practices and clean code ⌨️ <br><br>📫 How to reach me:</h4>
+#### <p align="center">A proactive Java Back-End Developer in Spring trained at It Academy from Barcelona Activa 💻<br><br>I'm a passionate learner who's always willing to learn and work across technologies and coding languages 📖 <br><br>I focus on developing robust, scalable and efficient solutions, ensuring a well-structured and maintainable code, following best practices and clean code ⌨️ <br><br>📫 How to reach me:</p>
 
 ### 
 
